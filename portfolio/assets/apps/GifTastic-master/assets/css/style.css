@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/tardis.jpg");
+}
+.doctor {border-radius:25px;background-image: url("../images/button.jpg") ; padding:25px;magin:5px; color:white;}
+
+
+#add {float:right; margin:100px;}
+
+#theButton {margin-left:8px}
+
+#gifs {float:left}
+
+h4 {font-weight: bold}

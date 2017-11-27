@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: GrenadierNF;
+    src: url(../fonts/GrenadierNF.ttf);
+}
+.jumbotron {
+     font-family:GrenadierNF, sans-serif;
+     color: white;
+     -webkit-text-stroke-width: 1px;
+     -webkit-text-stroke-color: black;
+     background: url('../images/train.jpg') no-repeat center center fixed;
+     min-width: 800px;
+}
+
+     body {
+
+     	font-family: Arial, Helvetica, sans-serif;
+        background: url('../images/tracks.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+   }
+
+  .panel-heading  {background-color: #999e37;
+   	color:white;}

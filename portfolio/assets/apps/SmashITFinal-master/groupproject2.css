@@ -1,0 +1,331 @@
+.one {
+     background: url("Lungebw.jpg") no-repeat center fixed;
+     -webkit-background-size: cover;
+  	 -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     min-height: 100%;
+  	 width: 100%;
+  	 height: auto;  
+  	top: 0;
+  	left: 0;
+    }
+
+.model {
+     background: black;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     height: auto;  
+    top: 0;
+    left: 0;
+    }
+
+
+.two {
+     background: url("pushupbw.jpg") no-repeat center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     height: auto;  
+    top: 0;
+    left: 0;
+    }
+
+.three {
+     background: url("corebw.jpg") no-repeat center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     height: auto;  
+    top: 0;
+    left: 0;
+    }
+
+.four {
+     background: url("gobw.jpg") no-repeat center fixed;
+     -webkit-background-size: cover;
+     -moz-background-size: cover;
+     -o-background-size: cover;
+     background-size: cover;
+     min-height: 100%;
+     width: 100%;
+     height: auto;  
+    top: 0;
+    left: 0;
+    }
+
+.black { background-color: black; 
+        color: #ff0000;
+        height: 160%;
+        text-align: center;
+        padding-top: 25px;
+    }
+
+.blacktwo  {background-color: black; 
+        color: #ff0000;
+        height: 160%;
+        text-align: center;
+        padding-top: 25px;
+        border-bottom: 2px solid grey;
+    }
+
+.blackbottom  {background-color: black; 
+        color: #ff0000;
+        height: 160%;
+        text-align: center;
+        padding-top: 25px;
+        border-top: 2px solid grey;
+    }
+
+.holder {height: 140px;
+    }
+
+h3 {color: #fffff0;
+  font-size: 24px;
+  text-align: center;
+}
+
+#startpage {
+  text-align: center;
+}
+
+#smalltext {
+  text-align: center;
+  font-size: 20px;
+}
+
+h4 { color: #e60000;
+     font-size: 48px; 
+     text-shadow:  1px 1px #696969;
+    }
+
+.header {color: grey;
+        font-size: 26px;
+        font-style: italic;
+        letter-spacing: 1px;
+        }
+
+.white {color: #fffff0;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 20px;
+
+}
+
+.whitecenter {color: #fffff0;
+  font-size: 18px;
+  text-align: center;
+}
+
+.grey {color: #fffff0;
+  font-size: 30px;
+  text-align: center;
+  color: grey;
+  letter-spacing: 2px;
+  font-style: italic;
+  text-shadow: 1px 1px white;
+
+}
+
+#music {
+  text-align: center;
+  height: 380px;
+}
+
+#decocards {
+  align-items: top;
+  height: 125px;
+  width: 125px;
+  border-top: solid 1px white;
+
+}
+#startWorkout,
+#startButtonOne,
+#startButtonTwo,
+#startButtonThree,
+#fullBody,
+#upperBody,
+#lowerBody,
+#coreBody,
+#cardioBody,
+#xavierButton,
+#stop
+{
+  background-color: hsl(0, 81%, 18%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cb1515", endColorstr="#530808");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#cb1515), to(#530808));
+  background-image: -moz-linear-gradient(top, #cb1515, #530808);
+  background-image: -ms-linear-gradient(top, #cb1515, #530808);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cb1515), color-stop(100%, #530808));
+  background-image: -webkit-linear-gradient(top, #cb1515, #530808);
+  background-image: -o-linear-gradient(top, #cb1515, #530808);
+  background-image: linear-gradient(#cb1515, #530808);
+  border-color: #530808 #530808 hsl(0, 81%, 11.5%);
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.42);
+  -webkit-font-smoothing: antialiased;
+  color: #fffff0;
+  font-size: 24px;
+  width: 265px;
+  height: 75px;
+}
+
+#exerciseOne,
+#exerciseTwo,
+#exerciseThree,
+#exerciseFour,
+#exerciseFive,
+#exerciseSix,
+#exerciseSeven,
+#exerciseEight,
+#exerciseNine,
+#exerciseTen,
+#exerciseEleven,
+#exerciseTwelve,
+#exerciseThirteen,
+#exerciseFourteen,
+#exerciseFifteen,
+#exerciseSixteen,
+#exerciseSeventeen,
+#exerciseEighteen,
+#exerciseNineteen,
+#exerciseTwenty,
+#exerciseTone,
+#exerciseTtwo,
+#exerciseTthree,
+#exerciseTfour
+{
+  background-color: hsl(0, 81%, 18%) !important;
+  background-repeat: repeat-x;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#cb1515", endColorstr="#530808");
+  background-image: -khtml-gradient(linear, left top, left bottom, from(#cb1515), to(#530808));
+  background-image: -moz-linear-gradient(top, #cb1515, #530808);
+  background-image: -ms-linear-gradient(top, #cb1515, #530808);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #cb1515), color-stop(100%, #530808));
+  background-image: -webkit-linear-gradient(top, #cb1515, #530808);
+  background-image: -o-linear-gradient(top, #cb1515, #530808);
+  background-image: linear-gradient(#cb1515, #530808);
+  border-color: #530808 #530808 hsl(0, 81%, 11.5%);
+  color: #fff !important;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.42);
+  -webkit-font-smoothing: antialiased;
+  padding: 10px;
+  margin: 15px;
+  color: #fffff0;
+  font-size: 24px;
+  text-align: center;
+  align-items: center;
+  width: 225px;
+  height: 75px;
+  
+}
+
+
+p { font-size: 30px;
+text-align: center;
+font-style: Bookman, Arial, Times New Roman;
+color: #fffff0;
+
+ }
+
+h5 {font-size: 30px;
+    color: yellow;
+    text-shadow:  2px 2px black;
+    text-align: center;
+    }
+
+ h1 {
+ 	margin-top: 66px;
+ 	text-align: center;
+	font-size: 52px;
+ 	text-shadow:  1px 1px black;
+  color: #ff0000;
+ 	font-style: Bookman, Arial, Times New Roman;
+ }
+
+ #display { font-size: 80px;
+            text-align: center;
+            text-shadow:  1px 1px #ff0000;
+            font-style: bold;
+            color: black;
+          }
+
+#buttons { text-align: center;
+}
+
+#exerciseNumber {
+  font-size: 30px;
+  color: #fffff0;
+  text-align: center;
+}
+
+
+
+.card {
+  display:inline-block;
+  text-align:center;
+  margin:15px;
+  padding:18px 15px 0 15px;
+  width:150px;
+  height:180px;
+  
+  font-size:25px;
+  background-color:white;
+  border: solid 1px black;
+}
+
+.red {
+  background-color:#E55451;
+  border: solid 1px #8C001A;
+  color:#8C001A;
+}
+
+
+
+.template {
+  display:none;
+}
+
+#textInfo {
+  text-align: center;
+  font-size: 46px;
+  text-shadow:  1px 1px black;
+  color: #ff0000;
+  font-style: Bookman, Arial, Times New Roman;
+    }
+
+#textInfoTwo {
+  text-align: center;
+  font-size: 46px;
+  text-shadow:  1px 1px black;
+  color: #ff0000;
+  font-style: Bookman, Arial, Times New Roman;
+    }
+
+.finalText {
+  margin-top: 66px;
+  text-align: center;
+  font-size: 52px;
+  text-shadow:  1px 1px black;
+  color: #ff0000;
+  font-style: Bookman, Arial, Times New Roman;
+ }
+
+#gifs-appear-here {
+  text-align: center;
+
+}
+
+}
+

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Gif Tastic</title>
+ <!--Bootstrap-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<link rel = "stylesheet" type = "text/css" href = "assets/css/style.css" />
+</head>
+
+<body>
+
+<div class="container" "="">
+<div id="doctorbuttons">
+
+<!---creates buttons to generate gifs-->
+<button class="doctor" data-name="Dr Who";">Dr Who</button>
+<button class="doctor" data-name="Cybermen";">Cybermen</button>
+<button class="doctor" data-name="Daleks";">Daleks</button>
+<button class="doctor" data-name="Weeping Angel";">Weeping Angels</button>
+<button class="doctor" data-name="Adipose";">Adipose</button>
+<button class="doctor" data-name="The Master";">The Master</button>
+<button class="doctor" data-name="The Silence";">The Silence</button>
+<button class="doctor" data-name="Gallifrey";">Gallifrey</button>
+<button class="doctor" data-name="Rose Tyler";">Rose Tyler</button>
+</div>
+
+</div>
+
+
+<div id="gifs"></div>
+
+
+<div id="add">
+ <h4>Add an button</h4>
+    <form id="gif-form">
+        <label for="gif-input"></label>
+        <input type="text" value="" id="gif-input"><br><br>
+        <!---creates submit button-->
+        <input type="submit" name="Button" class="btn btn-success" id="theButton">
+    </form>
+</div>
+<!---adds jQuery-->
+<script src='https://code.jquery.com/jquery-2.1.3.min.js'></script>
+
+  <!---adds Javascript File-->
+  <script type="text/javascript" src="assets/javascript/app.js"></script>
+
+</body>
+
+</html>
